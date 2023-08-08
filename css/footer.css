@@ -22,6 +22,8 @@ footer{
     padding: 40px;
     font-size: 40px;
     font-weight: 900;
+
+
 }
 
 .dada{
@@ -45,4 +47,18 @@ footer{
 
 .left-align{
     text-align: left;
+}
+
+.weight01{
+    text-align: center;
+    font-size: 293px;
+    color: #c2e0ab;
+}
+
+.aaaaaaaaaa{
+    background-color: #333;
+    color: white;
+    padding: 102px;
+    justify-content: center;
+    align-items: center;
 }
